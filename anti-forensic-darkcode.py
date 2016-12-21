@@ -13,7 +13,9 @@ print('''
 ██╔══██║██║╚██╗██║   ██║   ██║╚════╝██╔══╝  ██║   ██║██╔══██╗██╔══╝  ██║╚██╗██║╚════██║██╔══╝  
 ██║  ██║██║ ╚████║   ██║   ██║      ██║     ╚██████╔╝██║  ██║███████╗██║ ╚████║███████║███████╗
 ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝      ╚═╝      ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚══════╝╚══════╝
-version=1.0                                                                                                  
+version=1.0  criador=[DARKCODE]
+FACEBOOK=https://www.facebook.com/dakcorrea.dakc.1
+YOUTUBE=https://www.youtube.com/channel/UC4d_mJv4uhppA-hCdFODWJw
 ''')
 limpar = os.system('clear')
 print('''
@@ -121,4 +123,4 @@ if(dsa==1):
 			swap = os.system('sswap -vz /dev/', sswap)	
 else:
 	if(dsa==2):
-		print("dsa")
+		print("por favor seja mais profissional na sua invaão e delete o seus rastros brigado de nada ;)")
